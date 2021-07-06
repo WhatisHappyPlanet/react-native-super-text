@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{6EF71820-DC6F-11EB-B7B7-07B613C2416F}</ProjectGuid>
+    <ProjectGuid>{03A7E4F0-DCDD-11EB-9C03-8FF8EB3666F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>React.Native.Super.Text</RootNamespace>

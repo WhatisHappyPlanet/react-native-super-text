@@ -17,6 +17,7 @@
     "react-native-windows": "0.41.0-rc.1"
   },
   "devDependencies": {
-    "git-cz": "^4.7.6"
+    "git-cz": "^4.7.6",
+    "wml": "^0.0.83"
   }
 }

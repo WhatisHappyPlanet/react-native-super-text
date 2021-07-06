@@ -1,6 +1,10 @@
 
-import { NativeModules } from 'react-native';
+import { requireNativeComponent } from 'react-native';
 
-const { RNReactNativeSuperText } = NativeModules;
+// const { RNReactNativeSuperText } = NativeModules;
 
-export default RNReactNativeSuperText;
+// console.log(requireNativeComponent('RNReactNativeSuperText'));
+
+// export default {};
+
+export default requireNativeComponent('RNReactNativeSuperText');
